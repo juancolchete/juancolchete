@@ -19,7 +19,7 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juancolchete&show_icons=true&locale=en" alt="juancolchete" width="70%"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juancolchete&" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juancolchete" alt="juancolchete" width="70%" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juancolchete&show_icons=true&locale=en&layout=compact" alt="juancolchete" width="70%" /></p>
 <p align="center"><a href="https://www.buymeacoffee.com/juanudk"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="70%" alt="juancolchete" /></a></p>
