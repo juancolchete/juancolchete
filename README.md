@@ -18,8 +18,8 @@
 <a href="https://discord.gg/CcZurY8vF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juan.Colchete#2894" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=juancolchete&show_icons=true&locale=en" alt="juancolchete" width="70%"/></p>
+<p align="center"><img src="https://brakets-github-stats.vercel.app/api?username=juancolchete&show_icons=true&locale=en" alt="juancolchete" width="70%"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juancolchete" alt="juancolchete" width="70%" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juancolchete&show_icons=true&locale=en&layout=compact" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://brakets-github-stats.vercel.app/api/top-langs?username=juancolchete&show_icons=true&locale=en&layout=compact" alt="juancolchete" width="70%" /></p>
 <p align="center"><a href="https://www.buymeacoffee.com/juanudk"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="70%" alt="juancolchete" /></a></p>
