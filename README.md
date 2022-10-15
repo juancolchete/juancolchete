@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity** and DAPP development with Next.js, web3, moralis, Solana
 
-- 💬 Ask me about **Solidity, Smart Contracts, NFT, DeFi, Moralis**
+- 💬 Ask me about **Solidity, Smart Contracts, NFT, DeFi, Moralis, Careers**
 
 - 📫 How to reach me **juancolchete@gmail.com**
 
