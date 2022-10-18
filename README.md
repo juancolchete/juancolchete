@@ -25,6 +25,6 @@
 
 
 
-<p align="center"><img src="https://brackets-github-stats.vercel.app/api/top-langs?username=juancolchete&show_icons=true&locale=en&layout=compact" alt="juancolchete" width="70%" /></p>
+<!--<p align="center"><img src="https://brackets-github-stats.vercel.app/api/top-langs?username=juancolchete&show_icons=true&locale=en&layout=compact" alt="juancolchete" width="70%" /></p>-->
 <p align="center"><img src="https://brackets-github-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact" alt="juancolchete" width="70%" /></p>
 <p align="center"><a href="https://www.buymeacoffee.com/juanudk"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="70%" alt="juancolchete" /></a></p>
