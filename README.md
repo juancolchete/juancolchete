@@ -5,7 +5,7 @@
 
 <p align="center"> 
 <a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juancolchete" alt="juancolchete" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=juancolchete" alt="juancolchete" /> </p>
 
 - 🌱 I’m currently learning **Solidity** and DAPP development with Next.js, web3, moralis, Solana
 
@@ -20,7 +20,11 @@
 <a href="https://discord.gg/CcZurY8vF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juan.Colchete#2894" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://brackets-github-stats.vercel.app/api?username=juancolchete&show_icons=true&locale=en" alt="juancolchete" width="70%"/></p>
+<div align="center">
+    <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancolchete&theme=github_dark"/>
+    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juancolchete&theme=github_dark"/>
+    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancolchete&theme=github_dark"/>
+</div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juancolchete" alt="juancolchete" width="70%" /></p>
 
 
