@@ -5,7 +5,7 @@
 
 <p align="center"> 
 <a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=juancolchete" alt="juancolchete" /> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=juancolchete&theme=gitdimmed" alt="juancolchete" /> </p>
 </br>
 <p align="center"> 
 🌱 I’m currently learning <b>Solidity</b> and DAPP development with Next.js, web3, moralis, Solana<br/>
@@ -21,13 +21,13 @@
 
 <div align="center">
     <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancolchete&theme=github_dark"/>
-    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juancolchete&theme=github_dark"/>
+    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=-3"/>
     <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancolchete&theme=github_dark"/>
 </div>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juancolchete" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=juancolchete&theme=dark&background=0D1117&border=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
 
 
 <!--<p align="center"><img src="https://brackets-github-stats.vercel.app/api/top-langs?username=juancolchete&show_icons=true&locale=en&layout=compact" alt="juancolchete" width="70%" /></p>-->
-<p align="center"><img src="https://brackets-github-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://brackets-github-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact&theme=github_dark&border_color=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 <p align="center"><a href="https://www.buymeacoffee.com/juanudk"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="70%" alt="juancolchete" /></a></p>
