@@ -6,12 +6,11 @@
 <p align="center"> 
 <a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=juancolchete" alt="juancolchete" /> </p>
-<div> 
-    
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;🌱 I’m currently learning <b>Solidity</b> and DAPP development with Next.js, web3, moralis, Solana<br/>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;💬 Ask me about <b>Solidity, Smart Contracts, NFT, DeFi, Moralis, Careers</b><br/>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;📫 How to reach me <b>juancolchete@gmail.com</b><br/>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a></li>
+<p align="center" width="10%"> 
+🌱 I’m currently learning <b>Solidity</b> and DAPP development with Next.js, web3, moralis, Solana<br/>
+💬 Ask me about <b>Solidity, Smart Contracts, NFT, DeFi, Moralis, Careers</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
+📫 How to reach me <b>juancolchete@gmail.com</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
+📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
