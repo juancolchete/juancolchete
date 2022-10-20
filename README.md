@@ -6,7 +6,8 @@
 <p align="center"> 
 <a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=juancolchete" alt="juancolchete" /> </p>
-<p align="center" width="10%"> 
+</br>
+<p align="center"> 
 🌱 I’m currently learning <b>Solidity</b> and DAPP development with Next.js, web3, moralis, Solana<br/>
 💬 Ask me about <b>Solidity, Smart Contracts, NFT, DeFi, Moralis, Careers</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
 📫 How to reach me <b>juancolchete@gmail.com</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
