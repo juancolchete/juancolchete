@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://i.ibb.co/2jgx8LP/cover.png" alt="juancolchete" /> </p>
+<p align="left"> <img src="https://cdn.discordapp.com/attachments/1036688571677036564/1048658046102020116/calanga.png" alt="juancolchete" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
 <h3 align="center">The developer that brings dreams to come real</h3>
