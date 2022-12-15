@@ -99,7 +99,6 @@ const Guard = ({ children, authGuard, guestGuard }: GuardProps) => {
 
 // ** Configure JSS & ClassName
 const App = (props: ExtendedAppProps) => {
-  window.location.href = 'https://www.linkedin.com/in/juancolchete/'
   const { Component, emotionCache = clientSideEmotionCache, pageProps } = props
 
   // Variables
