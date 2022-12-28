@@ -9,7 +9,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=juancolchete&theme=gitdimmed" alt="juancolchete" /> </p>
 </br>
 <p align="center"> 
-🌱 I’m currently learning <b>Solidity</b> and DAPP development with Next.js, web3, moralis, renBTC<br/>
+🌱 I’m currently learning <b>Solidity</b> and DAPP development with Next.js, web3, moralis, HyperLedger<br/>
 💬 Ask me about <b>Solidity, Smart Contracts,HyperLedger, NFT, DeFi, Moralis, Careers</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
 📫 How to reach me <b>juancolchete@gmail.com</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
