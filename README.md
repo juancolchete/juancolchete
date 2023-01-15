@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/38388534/205455214-9f0b9fd7-32a9-4deb-801a-8b31a80a5558.png" alt="juancolchete" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Juan Colchete Blockchain Developer</h1>
+<h1 align="center">Juan Colchete | Blockchain Developer</h1>
 <h3 align="center">The developer that brings dreams to come real</h3>
 
 <p align="center"> 
