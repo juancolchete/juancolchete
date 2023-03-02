@@ -13,6 +13,15 @@ const withTM = require('next-transpile-modules')([
 ])
 
 module.exports = withTM({
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: 'https://www.linkedin.com/in/juancolchete/',
+        permanent: true
+      }
+    ]
+  },
   trailingSlash: true,
   reactStrictMode: false,
   experimental: {
