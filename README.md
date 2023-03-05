@@ -30,4 +30,3 @@
 
 
 <p align="center"><img src="https://brackets-github-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact&theme=github_dark&border_color=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
-<p align="center"><a href="https://www.buymeacoffee.com/juanudk"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="70%" alt="juancolchete" /></a></p>
