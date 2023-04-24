@@ -10,10 +10,10 @@
 </br>
 <p align="center"> 
 📔 I’m currently learning EIP-4337 <b>HyperLedger</b><br/>
-💬 Ask me about <b>Solidity, Typescript, Smart Contracts,HyperLedger, NFT, DeFi, Moralis, Careers</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
-📫 How to reach me <b>juancolchete@gmail.com</b>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br/>
-📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a>
-🌱 Know on Lens <a href="https://discord.gg/MmxRHmPVkF">Lens</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+💬 Ask me about <b>Solidity, Typescript, Smart Contracts,HyperLedger, NFT, DeFi, Moralis, Careers</b><br/>
+📫 How to reach me <b>juancolchete@gmail.com</b><br/>
+📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
+🌱 Know on Lens <a href="https://lenster.xyz/u/juancolchete">Lens</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
