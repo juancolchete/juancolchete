@@ -9,7 +9,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=juancolchete&theme=gitdimmed" alt="juancolchete" /> </p>
 </br>
 <p align="center"> 
-📔 I’m currently learning EIP-4337 ERC 6551 <b>LunarVim</b> Rust CI/CD DevOPS<br/> 
+📔 I’m currently learning EIP-4337 ERC 6551 <b>LunarVim</b> Rust CI/CD DevOPS Jenkins <br/> 
 💬 Ask me about <b>Solidity, Typescript, Smart Contracts, HyperLedger, Substrate, NFT, DeFi, Moralis, Careers, Hackhatons, Lunar VIM, Typescrypt, Next.js</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
