@@ -10,7 +10,7 @@
 </br>
 <p align="center"> 
 📔 I’m currently learning EIP-4337 ERC 6551 <b>LunarVim</b> Rust CI/CD DevOPS Jenkins <br/> 
-💬 Ask me about <b>Solidity, Typescript, Smart Contracts, HyperLedger, Substrate, NFT, DeFi, Moralis, Careers, Hackhatons, Lunar VIM, Typescrypt, Next.js, Immutable, zK EVM, Generative Art</b><br/>
+💬 Ask me about <b>Solidity, Typescript, Smart Contracts, HyperLedger, Substrate, NFT, DeFi, Moralis, Careers, Hackhatons, Lunar VIM, Typescrypt, Next.js, Immutable, zK EVM, Generative Art, Zero Knowledge Proofs</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
 🌱 Know on Lens <a href="https://lenster.xyz/u/juancolchete">Lens</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
