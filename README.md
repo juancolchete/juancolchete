@@ -35,6 +35,7 @@
 Who overcome entropy can achieve anything.  
 Talk is easy show me the code!
 Promises are made to be respected.  
-Respect is not about enforce   
+Respect is not about enforce.  
+With enought time any problem can be solved.
 404 => 200  
 200 => 408
