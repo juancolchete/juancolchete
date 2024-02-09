@@ -32,6 +32,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact&theme=github_dark&border_color=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
+Nothing teaches more than pain.
 Who overcome entropy can achieve anything.  
 Talk is easy show me the code!
 Promises are made to be respected.  
@@ -39,6 +40,6 @@ Respect is not about enforce.
 With enought time any problem can be solved.
 Right abstration is the half of a good solution.  
 Best solutions take some time.  
-Freedom!
+Freedom!  
 404 => 200  
 200 => 408
