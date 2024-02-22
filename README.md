@@ -31,6 +31,7 @@
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact&theme=github_dark&border_color=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
+
 ## Principles
 Nothing teaches more than pain.  
 Who overcome entropy can achieve anything.  
