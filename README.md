@@ -44,4 +44,7 @@ Best solutions take some time.
 If I'm in, there's no half, I'm in completely.    
 Freedom!  
 404 => 200  
-200 => 408
+200 => 408  
+
+## GPG Keys
+[Main key](https://github.com/juancolchete/juancolchete/blob/main/juancolchete.key)
