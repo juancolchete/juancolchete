@@ -43,6 +43,7 @@ Right abstration is the half of a good solution.
 Best solutions take some time.  
 If I'm in, there's no half, I'm in completely.    
 Freedom!  
+Think simple!  
 404 => 200  
 200 => 408  
 
