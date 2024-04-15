@@ -26,7 +26,7 @@
     <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=-3"/>
     <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancolchete&theme=github_dark"/>
 </div>
-<p align="center"><img src="https://bracket-streak.vercel.app?user=juancolchete&theme=dark&background=0D1117&border=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=juancolchete&theme=dark&background=0D1117&border=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
 
 
