@@ -47,6 +47,7 @@ Stay humble!
 Think simple!  
 Opensource is the key
 Before worry start doing it
+Effort by effort has no value.
 404 => 200  
 200 => 408  
 2 -> 4 -> 8 -> 16 -> 32 -> 64 -> 128 -> 256 -> 512 -> 1024 
