@@ -50,6 +50,6 @@ Before worry start doing it
 Effort by effort has no value.
 404 => 200  
 200 => 408  
-2 -> 4 -> 8 -> 16 -> 32 -> 64 -> 128 -> 256 -> 512 -> 1024 
+✅2 -> ✅4 -> ✅8 -> ✅16 -> ✅32 -> ✅64 -> ✅128 -> ✅256 -> ✅512 -> ✅1024 -> ⌛2048
 ## GPG Keys
 [Main key](https://github.com/juancolchete/juancolchete/blob/main/juancolchete.key)
