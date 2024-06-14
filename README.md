@@ -54,3 +54,4 @@ Provide options, don't make lame excuses. Instead of excuses, provide options. F
 ✅2 -> ✅4 -> ✅8 -> ✅16 -> ✅32 -> ✅64 -> ✅128 -> ✅256 -> ✅512 -> ✅1024 -> ⌛2048
 ## GPG Keys
 [Main key](https://github.com/juancolchete/juancolchete/blob/main/juancolchete.key)
+[Main PGP 4096 key](https://github.com/juancolchete/juancolchete/blob/main/CDAOjuanpub.pgp)
