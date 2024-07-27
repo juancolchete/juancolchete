@@ -49,7 +49,8 @@ Opensource is the key
 Before worry start doing it  
 Effort by effort has no value.  
 Provide options, don't make lame excuses. Instead of excuses, provide options. 
-Don't say it can't be done, explain what can be done.  
+Don't say it can't be done, explain what can be done.
+Be near to people who aggregate.
 I play on hardcore.<img align="center" src="https://github.com/juancolchete/juancolchete/assets/38388534/573be4ee-99ec-4099-89f0-21d81f7eda59" alt="hardcore" height="25" width="25" />
 
 404 => 200  
