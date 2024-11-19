@@ -55,6 +55,7 @@ Don't say it can't be done, explain what can be done.
 Be near to people who aggregate. 
 To avoid troubles in future set boundaries first.  
 Big effort on plan, less effort and rework on do.  
+Live one day after another.    
 I play on hardcore.<img align="center" src="https://github.com/juancolchete/juancolchete/assets/38388534/573be4ee-99ec-4099-89f0-21d81f7eda59" alt="hardcore" height="25" width="25" />
 
 404 => 200  
