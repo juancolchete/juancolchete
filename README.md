@@ -59,6 +59,7 @@ Life is made of interest if you don't  know, be careful this could be harmful.
 Build is a high effort, destroy has no.  
 Avoid poisonous conversations or you will be misunderstood.  
 Not your keys not yoyr coins.  
+Cryptography is self defense.  
 
 I play on hardcore.<img align="center" src="https://github.com/juancolchete/juancolchete/assets/38388534/573be4ee-99ec-4099-89f0-21d81f7eda59" alt="hardcore" height="25" width="25" />
 
