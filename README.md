@@ -7,15 +7,13 @@
 <p align="center"> 
 <a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=juancolchete&theme=gitdimmed" alt="juancolchete" /> </p>
-</br>
+<br/>
 <p align="center"> 
 📔 I’m currently learning <b>LunarVim</b> Rust CI/CD DevOPS Kubernetes <br/> 
 💬 Ask me about <b>Solidity, Typescript, Smart Contracts, HyperLedger Besu, Substrate, NFT, DeFi, Careers, Lunar VIM, Typescrypt, Next.js, Immutable,trueNAS,Proxmox</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
-🌱 Know on Lens <a href="https://lenster.xyz/u/juancolchete">Lens</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<h3 align="center">Buy me a ☕</h3>
-⚡ colchete@speed.app    
-🔗 35zEcKcq9no4iwkknQ2oLPS3Rs5Dc676hM    
+🌱 Know on Lens <a href="https://lenster.xyz/u/juancolchete">Lens</a>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
@@ -71,3 +69,6 @@ I play on hardcore.<img align="center" src="https://github.com/juancolchete/juan
 ## GPG Keys
 [Main key](https://github.com/juancolchete/juancolchete/blob/main/juancolchete.key)  
 [Main PGP 4096 key](https://github.com/juancolchete/juancolchete/blob/main/CDAOjuanpub.pgp)
+## Buy me a ☕
+⚡ colchete@speed.app <br/>
+🔗 35zEcKcq9no4iwkknQ2oLPS3Rs5Dc676hM  
