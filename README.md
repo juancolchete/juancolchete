@@ -14,8 +14,8 @@
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
 🌱 Know on Lens <a href="https://lenster.xyz/u/juancolchete">Lens</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<h3 align="center">Buy me a ☕</h3>
-⚡ colchete@speed.app
-🔗 35zEcKcq9no4iwkknQ2oLPS3Rs5Dc676hM
+⚡ colchete@speed.app  
+🔗 35zEcKcq9no4iwkknQ2oLPS3Rs5Dc676hM. 
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
