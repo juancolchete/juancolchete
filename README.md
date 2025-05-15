@@ -71,4 +71,6 @@ I play on hardcore.<img align="center" src="https://github.com/juancolchete/juan
 [Main PGP 4096 key](https://github.com/juancolchete/juancolchete/blob/main/CDAOjuanpub.pgp)
 ## Buy me a ☕
 ⚡ colchete@speed.app <br/>
-🔗 bc1q4yxah763qnr6symzrve372p3l6kz350rgqzcekskauh7ep2thcnsccepvj  
+🔗 bc1q4yxah763qnr6symzrve372p3l6kz350rgqzcekskauh7ep2thcnsccepvj
+
+# Opt Out 
