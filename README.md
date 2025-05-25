@@ -75,4 +75,5 @@ I play on hardcore.<img align="center" src="https://github.com/juancolchete/juan
 ⚡ colchete@speed.app <br/>
 🔗 bc1q4qj0rd9alyz4tmt3wykg43evpw6ffl4upt7erzjs6mn3mf52q9gqtav6m0  
 
-# Opt Out 
+# Opt Out
+# 🐬AQUA User🐬
