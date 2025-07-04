@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Bitcoin Developer UAIBIT Speaker</h1>
+<h2 align="center">Brazil will become the most important country in Bitcoin</h2>
 <h3 align="center">The developer that brings dreams to come real, P2P, Content Creator, Open Source Mantainer, Community Creator, Manager and Mantainer UAIBIT coFounder</h3>
 
 <p align="center"> 
