@@ -39,7 +39,7 @@ Talk is easy show me the code!
 Promises are made to be respected.  
 Respect is not about enforce.  
 With enought time any problem can be solved.  
-Right abstration is the half of a good solution.  
+Right abstration is the half of a good solution.
 <!-- Easter egg -->
 Best solutions take some time.  
 If I'm in, there's no half, I'm in completely.    
