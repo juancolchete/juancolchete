@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/38388534/205455214-9f0b9fd7-32a9-4deb-801a-8b31a80a5558.png" alt="juancolchete" /> </p>
 
 
-<h1 align="center">Full stack and Bitcoin Developer</h1>
+<h1 align="center">Bitcoin Developer</h1>
 <h2 align="center">Brazil will become the most important country in Bitcoin</h2>
 <h3 align="center">The developer that brings dreams to come real, P2P, Content Creator, Open Source Mantainer, Community Creator, Manager and Mantainer UAIBIT CTO</h3>
 
