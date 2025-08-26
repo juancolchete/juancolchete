@@ -29,7 +29,7 @@
 </div>
 <p align="center"><img src="https://bracket-streak-5n2pmsykl-juanudk.vercel.app/?user=juancolchete&theme=dark&background=0D1117&border=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=juancolchete&layout=compact&theme=github_dark&border_color=2E343C&border_radius=2.5" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@juancolchete&layout=compact&theme=github_dark&border_color=2E343C&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
 ## Sponsors
 [livecoins](livecoins.com)
