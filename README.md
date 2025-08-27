@@ -35,7 +35,7 @@
 [livecoins](livecoins.com)
 
 ## Commit worth
-[Github worth](https://github-worth.vercel.app/)
+[Github worth](https://commitworth.vercel.app/dashboard/juancolchete)  
 [Commit worth](https://commitworth.vercel.app/dashboard/juancolchete)
 
 ## Principles of Juan Colchete 
