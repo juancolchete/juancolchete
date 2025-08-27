@@ -34,6 +34,10 @@
 ## Sponsors
 [livecoins](livecoins.com)
 
+## Commit worth
+[Github worth](https://github-worth.vercel.app/)
+[Commit worth](https://commitworth.vercel.app/dashboard/juancolchete)
+
 ## Principles of Juan Colchete 
 No time for excuses.
 Nothing teaches more than pain.  
