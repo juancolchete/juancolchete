@@ -7,7 +7,7 @@
 
 <p align="center"> 
 <a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
-https://github-trophies.vercel.app/?username=juancolchete&theme=onedark
+<img src="https://github-trophies.vercel.app/?username=juancolchete&theme=onedark"/>
 <br/>
 <p align="center"> 
 📔 I’m currently learning <b>LunarVim</b> Rust CI/CD DevOPS Kubernetes <br/> 
