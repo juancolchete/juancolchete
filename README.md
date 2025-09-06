@@ -65,7 +65,7 @@ Live one day after another.
 Life is made of interest if you don't  know, be careful this could be harmful.   
 Build is a high effort, destroy has no.  
 Avoid poisonous conversations or you will be misunderstood.  
-Not your keys not yoyr coins.  
+Not your keys not your coins.  
 Cryptography is self defense.  
 Knowledge is the path.  
 Don't tell anything that you don't want to be public.  
