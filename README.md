@@ -32,7 +32,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@juancolchete&layout=compact&theme=github_dark&border_color=2E343C&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
 ## Sponsors
-[livecoins](livecoins.com)
+[livecoins](livecoins.com)  
 [ranking](https://ranking.uaibit.com.br/)
 
 ## Commit worth
