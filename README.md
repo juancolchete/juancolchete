@@ -10,7 +10,7 @@
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
 <br/>
 <p align="center"> 
-📔 I’m currently learning <b>LunarVim</b> Rust CI/CD DevOPS Kubernetes MediaMXT FFMPEG <br/> 
+📔 I’m currently learning Bitcoin and Multi stream<br/> 
 💬 Ask me about <b>Bitcoin, Typescript Next.js,trueNAS,Proxmox, DLT</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
