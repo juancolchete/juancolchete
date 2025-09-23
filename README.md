@@ -11,7 +11,7 @@
 <br/>
 <p align="center"> 
 📔 I’m currently learning Bitcoin and Multi stream<br/> 
-💬 Ask me about <b>Bitcoin, Typescript Next.js,trueNAS,Proxmox, DLT</b><br/>
+💬 Ask me about <b>Bitcoin, Typescript Next.js, DLT</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
 🌱 Know on Lens <a href="https://lenster.xyz/u/juancolchete">Lens</a>
