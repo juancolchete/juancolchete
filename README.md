@@ -37,8 +37,7 @@
 
 ## Commit worth
 [Github worth](https://commitworth.vercel.app/dashboard/juancolchete)  
-[Commit worth](https://commitworth.vercel.app/dashboard/juancolchete)
-
+[Commit worth](https://commitworth.vercel.app/dashboard/juancolchete)  
 [Principles](/Principles.md)
 
 404 => 200  
