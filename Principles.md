@@ -1,6 +1,7 @@
 ## Principles of Juan Colchete 
 No time for excuses.
 Nothing teaches more than pain.  
+Handle not complain.  
 Who overcome entropy can achieve anything.  
 Talk is easy show me the code!  
 Promises are made to be respected.  
