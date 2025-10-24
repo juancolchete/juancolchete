@@ -6,7 +6,6 @@
 <h3 align="center">The developer that brings dreams to come real, P2P, Content Creator, Open Source Mantainer, Community Creator, Manager and Mantainer UAIBIT CTO, AI entusiast, NixOS learner</h3>
 
 <p align="center"> 
-<a href="https://wakatime.com/@1ea8aa8a-1462-4ae3-932a-425cac8a39a0"><img src="https://wakatime.com/badge/user/1ea8aa8a-1462-4ae3-932a-425cac8a39a0.svg" alt="Total time coded since Sep 24 2022" /></a><br/><br/>
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
 <br/>
 <p align="center"> 
@@ -27,8 +26,6 @@
     <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancolchete&theme=github_dark"/>
 </div>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=juancolchete&theme=dark&background=0D1117&border=2E343B&border_radius=2.5" alt="juancolchete" width="70%" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@juancolchete&layout=compact&theme=github_dark&border_color=2E343C&border_radius=2.5" alt="juancolchete" width="70%" /></p>
 
 ## Sponsors
 [livecoins](livecoins.com)  
