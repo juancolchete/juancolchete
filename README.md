@@ -35,12 +35,6 @@
 [Github worth](https://commitworth.vercel.app/dashboard/juancolchete)  
 [Commit worth](https://commitworth.vercel.app/dashboard/juancolchete)  
 [Principles](/Principles.md)
-
-404 => 200  
-200 => 408  
-200 => 200  
-429 => 404
-✅2 -> ✅4 -> ✅8 -> ✅16 -> ✅32 -> ✅64 -> ✅128 -> ✅256 -> ✅512 -> ✅1024 -> ⌛2048 ⏳
 ## GPG Keys
 [Main key](https://github.com/juancolchete/juancolchete/blob/main/juancolchete.key)  
 [Main PGP 4096 key](https://github.com/juancolchete/juancolchete/blob/main/CDAOjuanpub.pgp)
