@@ -38,7 +38,7 @@
 ## GPG Keys
 [Main key](https://github.com/juancolchete/juancolchete/blob/main/juancolchete.key)  
 [Main PGP 4096 key](https://github.com/juancolchete/juancolchete/blob/main/CDAOjuanpub.pgp)
-## Buy me a ☕
+## Donations 
 ⚡ colchete@speed.app <br/>
 🔗 bc1qyygs2y7upvw642226a8sg6c40hzyhv0esu383r  
 
