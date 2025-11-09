@@ -34,6 +34,7 @@ In Information war flood is an weapon.
 Life is not a strawberry.  
 Take me to a place where no one else can go.  
 Life has no control z, rm -rf or del, but you can rewrite.  
+Embrace the caos.  
 I play on hardcore.<img align="center" src="https://github.com/juancolchete/juancolchete/assets/38388534/573be4ee-99ec-4099-89f0-21d81f7eda59" alt="hardcore" height="25" width="25" />
 404 => 200  
 200 => 408  
