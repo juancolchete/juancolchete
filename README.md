@@ -2,7 +2,7 @@
 <a href="https://youtube.com/@juancolchete">Youtube</a>
 
 <h1 align="center">Bitcoin Developer</h1>
-<h2 align="center">Brazil will become the most important country in Bitcoin</h2>
+<h2 align="center">Brazil most important country in Bitcoin</h2>
 <h3 align="center">The developer that brings dreams to come real, P2P, Content Creator, Open Source Mantainer, Community Creator, Manager and Mantainer UAIBIT CTO, AI entusiast, NixOS learner</h3>
 
 <p align="center"> 
