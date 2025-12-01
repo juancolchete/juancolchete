@@ -3,7 +3,7 @@
 
 <h1 align="center">Bitcoin Developer</h1>
 <h2 align="center">Brazil most important country in Bitcoin</h2>
-<h3 align="center">The developer that brings dreams to come real, P2P, Content Creator, Open Source Mantainer, Community Creator, Manager and Mantainer UAIBIT CTO, AI entusiast, NixOS learner</h3>
+<h3 align="center">The developer that brings dreams to come real.</h3>
 
 <p align="center"> 
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
