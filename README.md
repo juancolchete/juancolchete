@@ -40,7 +40,4 @@
 [Main PGP 4096 key](https://github.com/juancolchete/juancolchete/blob/main/CDAOjuanpub.pgp)
 ## Donations 
 ⚡ colchete@speed.app <br/>
-🔗 bc1qyygs2y7upvw642226a8sg6c40hzyhv0esu383r  
-
-# Opt Out
-# 🐬AQUA User🐬
+🔗 bc1qyygs2y7upvw642226a8sg6c40hzyhv0esu383r
