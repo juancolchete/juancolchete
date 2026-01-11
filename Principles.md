@@ -37,6 +37,7 @@ Life has no control z, rm -rf or del, but you can rewrite.
 Embrace the caos.  
 Love and hate are so near, reinforce the contracts!
 NCP adept Never Complain Policy
+Keep everything you build alive.
 I play on hardcore.<img align="center" src="https://github.com/juancolchete/juancolchete/assets/38388534/573be4ee-99ec-4099-89f0-21d81f7eda59" alt="hardcore" height="25" width="25" />
 404 => 200  
 200 => 408  
