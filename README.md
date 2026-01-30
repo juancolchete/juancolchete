@@ -25,7 +25,7 @@
     <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=-3"/>
     <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancolchete&theme=github_dark"/>
 </div>
-<p align="center"><img src="https://raw.githubusercontent.com/ColcheteDAO/streakCounter/main/badges/juancolchete_badge.png" alt="juancolchete" width="70%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ColcheteDAO/streakCounter/main/juancolchete/badges/juancolchete_badge.png" alt="juancolchete" width="70%" /></p>
 
 ## Sponsors
 [livecoins](livecoins.com)  
