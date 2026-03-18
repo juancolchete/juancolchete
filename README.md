@@ -9,7 +9,7 @@
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
 <br/>
 <p align="center"> 
-📔 I’m currently learning Bitcoin and Multi stream<br/> 
+📔 I’m currently learning about Apache Echarts<br/> 
 💬 Ask me about <b>Bitcoin, Typescript Next.js, Communities, Apache Charts</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
