@@ -2,8 +2,7 @@
 <a href="https://youtube.com/@juancolchete">Youtube</a>
 
 <h1 align="center">Bitcoin / EVM Developer</h1>
-<h2 align="center">Brazil most important country in Bitcoin</h2>
-<h3 align="center">The developer that brings dreams to come real.</h3>
+<h2 align="center">The developer that brings dreams to come real.</h2>
 
 <p align="center"> 
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
