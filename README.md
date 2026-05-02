@@ -3,6 +3,11 @@
 
 <h1 align="center">Developer</h1>
 <h2 align="center">The developer that brings dreams to come real.</h2>
+<p align="center">
+  <img src="https://www.thegitcity.com/dev/juancolchete/opengraph-image" alt="Juan's Git City" width="800">
+</p>
+
+
 
 <p align="center"> 
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
