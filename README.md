@@ -14,7 +14,7 @@
 <br/>
 <p align="center"> 
 📔 I’m currently learning about Apache Echarts<br/> 
-💬 Ask me about <b>Bitcoin, Typescript Next.js, Communities, Apache Charts</b><br/>
+💬 Ask me about <b>DeFi</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
 <a href="https://www.thegitcity.com/dev/juancolchete">The git city</a>
