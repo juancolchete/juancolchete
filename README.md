@@ -13,6 +13,7 @@
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
 <br/>
 <p align="center"> 
+🇧🇷🇵🇾🇲🇽
 📔 I’m currently learning about Apache Echarts<br/> 
 💬 Ask me about <b>DeFi</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
