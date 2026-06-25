@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/38388534/205455214-9f0b9fd7-32a9-4deb-801a-8b31a80a5558.png" alt="juancolchete" /> </p>
 <a href="https://youtube.com/@juancolchete">Youtube</a>
 
-<h1 align="center">Developer & AI Entusiast</h1>
+<h1 align="center">Backend Developer</h1>
 <h2 align="center">Open Source is the public goods, but be careful</h2>
 <p align="center">
   <img src="https://www.thegitcity.com/dev/juancolchete/opengraph-image" alt="Juan's Git City" width="800">
