@@ -2,7 +2,6 @@
 <a href="https://youtube.com/@juancolchete">Youtube</a>
 
 <h1 align="center">Backend Developer</h1>
-<h2 align="center">Open Source is the public goods, but be careful</h2>
 <p align="center">
   <img src="https://www.thegitcity.com/dev/juancolchete/opengraph-image" alt="Juan's Git City" width="800">
 </p>
