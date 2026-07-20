@@ -16,7 +16,6 @@
 📔 I’m currently learning about Apache Echarts<br/> 
 💬 Ask me about <b>DeFi</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
-📊 Know my discord <a href="https://discord.gg/MmxRHmPVkF">Discord</a><br/>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
