@@ -32,7 +32,6 @@
 
 ## Sponsors
 [livecoins](livecoins.com)  
-[ranking](https://ranking.uaibit.com.br/)
 
 ## Commit worth
 [Github worth](https://commitworth.vercel.app/dashboard/juancolchete)  
