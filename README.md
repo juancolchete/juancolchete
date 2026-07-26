@@ -32,8 +32,3 @@
 
 ## Sponsors
 [livecoins](livecoins.com)  
-
-## Commit worth
-[Github worth](https://commitworth.vercel.app/dashboard/juancolchete)  
-[Commit worth](https://commitworth.vercel.app/dashboard/juancolchete)  
-
