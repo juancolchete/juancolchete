@@ -23,11 +23,6 @@
 <a href="https://discord.gg/CcZurY8vF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juan.Colchete#2894" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-    <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancolchete&theme=github_dark"/>
-    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=-3"/>
-    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juancolchete&theme=github_dark"/>
-</div>
 <p align="center"><img src="https://raw.githubusercontent.com/ColcheteDAO/streakCounter/main/juancolchete/badges/juancolchete_badge.png" alt="juancolchete" width="70%" /></p>
 
 ## Sponsors
