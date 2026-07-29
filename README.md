@@ -13,7 +13,6 @@
 <br/>
 <p align="center"> 
 🇧🇷🇵🇾🇲🇽<br />
-📔 I’m currently learning about Apache Echarts<br/> 
 💬 Ask me about <b>DeFi</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 </div>
