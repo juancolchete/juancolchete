@@ -13,7 +13,6 @@
 <br/>
 <p align="center"> 
 🇧🇷🇵🇾🇲🇽<br />
-💬 Ask me about <b>DeFi</b><br/>
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 </div>
 <p align="center">
