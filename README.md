@@ -8,7 +8,7 @@
 <img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
 <br/>
 <p align="center"> 
-🇧🇷🇵🇾🇲🇽<br />
+🇧🇷🇵🇾🇲🇽🇮🇹<br />
 📫 How to reach me <b>juancolchete@gmail.com</b><br/>
 </div>
 <p align="center">
