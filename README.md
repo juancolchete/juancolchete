@@ -9,7 +9,7 @@
 <br/>
 <p align="center"> 
 🇧🇷🇵🇾🇲🇽🇮🇹<br />
-📫 How to reach me <b>juancolchete@gmail.com</b><br/>
+📫 <b>juancolchete@gmail.com</b><br/>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
