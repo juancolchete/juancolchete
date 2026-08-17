@@ -5,7 +5,7 @@
 
 
 <p align="center"> 
-<img src="https://github-trophies.vercel.app/?username=juancolchete"/>
+<img src="https://github-trophies.vercel.app/?username=juancolchete&theme=gitdimmed"/>
 <br/>
 <p align="center"> 
 🇧🇷🇵🇾🇲🇽🇮🇹<br />
