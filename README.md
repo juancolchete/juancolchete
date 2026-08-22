@@ -20,4 +20,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/ColcheteDAO/streakCounter/main/juancolchete/badges/juancolchete_badge.png" alt="juancolchete" width="70%" /></p>
 
 ## Sponsors
-[livecoins](livecoins.com)  
+[livecoins](livecoins.com) 
+[OKX](https://okx.com/en-br/join/25091520)
