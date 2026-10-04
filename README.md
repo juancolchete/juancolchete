@@ -1,6 +1,7 @@
 <p align="center">
 
-<h1 align="center">Senior Blockchain Engineer</h1>
+<h1 align="center">[Juan Colchete]</h1>
+<h2 align="center">Senior Blockchain Engineer</h2>
 
 
 
